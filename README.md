@@ -53,10 +53,10 @@ Before you begin, ensure you have the following installed and configured:
 
 Here are some screenshots of the script in action:
 
-![Screenshot 1](https://github.com/mohamedesmael10/serverless-api-with-lambda-dynamodb/tree/main/Shots/1.jpg)
-![Screenshot 2](https://github.com/mohamedesmael10/serverless-api-with-lambda-dynamodb/tree/main/Shots/2.jpg)
-![Screenshot 3](https://github.com/mohamedesmael10/serverless-api-with-lambda-dynamodb/tree/main/Shots/3.jpg)
-![Screenshot 4](https://github.com/mohamedesmael10/serverless-api-with-lambda-dynamodb/tree/main/Shots/4.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/mohamedesmael10/serverless-api-with-lambda-dynamodb/main/Shots/1.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/mohamedesmael10/serverless-api-with-lambda-dynamodb/main/Shots/2.jpg)
+![Screenshot 3](https://raw.githubusercontent.com/mohamedesmael10/serverless-api-with-lambda-dynamodb/main/Shots/3.jpg)
+![Screenshot 4](https://raw.githubusercontent.com/mohamedesmael10/serverless-api-with-lambda-dynamodb/main/Shots/4.jpg)
 
 - **Mohamed Mostafa Esmael**  
   Email: [mohamed.mostafa.esmael10@outlook.com](mailto:mohamed.mostafa.esmael10@outlook.com)  
