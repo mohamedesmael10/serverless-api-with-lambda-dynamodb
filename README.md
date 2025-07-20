@@ -1,4 +1,3 @@
-Below is a sample README.md for your project. You can adjust details such as endpoints or prerequisites as needed:
 
 ---
 
